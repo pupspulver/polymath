@@ -1,7 +1,7 @@
 # PolyMath
 ### What is that?
 Polymath is a simple two polynomial terminal script calculator written in Python! 
-In mathematics, a polynomial is an expression consisting of variables and coefficients. A polynomial is composed of several monomials. An example of a polynomial is ```x**2 − 4*x + 7. ```
+In mathematics, a polynomial is an expression consisting of variables and coefficients. A polynomial is composed of several monomials. An example of a polynomial is ```x**2 − 4*x + 7```.
 
 ### Sintax
 - To write powers use "**", ex: ```x**7``` (x to the 7). 
