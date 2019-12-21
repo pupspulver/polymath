@@ -11,6 +11,7 @@ In mathematics, a polynomial is an expression consisting of variables and coeffi
 
 ### Setup
 It's very simple, you just clone this repostory on your computer and run the 'main.py' file in a terminal using Python 3 or higher.
+Y ou don't have to install additional modules or components. If the program needs one, it will install it automatically.
 
 To run the script (in the directory where the file is):
     ``` python3 main.py ```
