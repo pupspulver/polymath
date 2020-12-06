@@ -15,4 +15,4 @@ You don't have to install additional modules or components. If the program needs
 
 To run the script (in the directory where the file is):
     ``` python3 main.py ```
-## And, that's all! Enjoy! :)
+## And, that's all! Enjoy! :) 
